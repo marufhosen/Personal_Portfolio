@@ -50,7 +50,6 @@ section{
 .bio{
     background-image: url('src/img/biography-bg.png');
     background-repeat: no-repeat;
-    background-size: auto 1100px;
 }
 
 .bio img{
@@ -60,7 +59,7 @@ section{
     font-size: 40px;
 }
 .bio .content{
-    margin-top: 250px;
+    margin-top: 10px;
 }
 .bio p{
     margin-bottom: 70px;

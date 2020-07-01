@@ -1,0 +1,25 @@
+@media only screen and (max-width: 768px){
+    .half-one{
+        width: 100%;
+        display: block;
+    }
+    .bio img{
+        display: none;
+    }
+    .wrk .work-img{
+        border: 2px solid purple;
+        display: block;
+        width: 500px;
+    }
+    .service .service-half{
+        width: 100%;
+        display: block;
+    }
+    section{
+        height: auto;
+    }
+    .footer-half{
+        width: 100%;
+        display: block;   
+    }
+}
